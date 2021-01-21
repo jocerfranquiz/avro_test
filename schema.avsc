@@ -1,0 +1,8 @@
+{"name": "schema",
+"namespace": "test",
+"type": "record",
+"fields":[
+    {"name": "name", "type": "string"},
+    {"name": "favorite_number", "type": "int"}
+    ]
+}
